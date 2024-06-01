@@ -29,8 +29,8 @@ sections:
   path: exampleSite/content/contact/_index.md
   label: Contact
 - type: document
-  path: exampleSite/content/privacy-policy/_index.md
-  label: Privacy Policy
+  path: exampleSite/content/gallery/_index.md
+  label: gallery
 - type: heading
   label: Configuration
 - type: directory
